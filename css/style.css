@@ -1,0 +1,34 @@
+*{
+	font-family: Arial;
+	margin: 0;
+}
+
+.wrapper{
+	width: 968px;
+	margin: 0 auto;
+}
+
+.sectionBlocks .wrapper img{
+	width: 450px;
+	margin-right: 10px;
+}
+
+.sectionBlocksFlex{
+	display: flex;
+	align-items: center;
+	margin-top: 25px;
+	padding-bottom: 25px;
+	color: greenyellow;
+}
+
+.sectionBlocks{
+	background: blue;
+}
+
+.sectionBlocks .wrapper h2{
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 25px;
+	color: greenyellow;
+}
+
