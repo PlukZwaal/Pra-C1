@@ -3,6 +3,33 @@
 	margin: 0;
 }
 
+html{
+	/*scroll-behavior: smooth;*/
+}
+
+/* Header */
+
+.sectionHeader{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.sectionHeader img{
+	max-width: 200px;
+}
+
+.sectionHeader{
+	background-color: #1eb300;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.sectionHeader a{
+	text-decoration: none;
+	margin-left: 10px;
+}
+
 .wrapper{
 	width: 968px;
 	margin: 0 auto;
@@ -18,7 +45,7 @@
 .sectionBlocksFlex{
 	display: flex;
 	align-items: center;
-	margin-top: 25px;
+	padding-top: 25px;
 	padding-bottom: 25px;
 }
 
@@ -41,10 +68,80 @@
 	padding-bottom: 25px;
 }
 
-.sectionAccelerated h2{
-	color: #9735AF;
-	font-size: 35px;
-	margin-bottom: 10px;
+/* Vakken */
+
+.sectionSubjects{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.subject{
+	margin-top: 15px;
+}
+
+/* Huiswerk */
+
+.sectionHomework{
+	background-color: #3d0099;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+/* Rooster */
+
+.sectionSchedule{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.sectionSchedule img{
+	max-width: 950px;
+}
+
+.sectionScheduleFlex{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/* Teachers */
+
+.sectionTeachers{
+	background-color: #cc00c5;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+}
+
+.sectionTeachers2{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.teacher img{
+	height: 200px;
+	width: 200px;
+}
+
+.teacherFlex{
+	display: flex;
+	flex-direction: column;
+}
+
+
+/* Footer */
+
+.sectionFooter .wrapper{
+	color: white;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.sectionFooter{
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
 }
 
 /* Mediaquery */
