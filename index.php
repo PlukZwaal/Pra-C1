@@ -17,13 +17,13 @@
 	<body>
 		<div class="sectionBlocks">
 			<div class="wrapper">
-				<h2>Hoe werken de blokken?</h2>
 				<div class="sectionBlocksFlex">
-					<img src="img/blocks.png">
 					<div class="sectionBlocksFlex2">
+						<h2>Hoe werken de blokken?</h2>
 						<p>Lorem ipsum, dolor sit amet,con sectetur adipisicing elit. Laborum culpa, eligendi ea quam impedit exercitationem expedita voluptates soluta beatae doloremque nihil at, atque nostrum ullam tempore! Dolorem voluptate ipsam reprehenderit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit quo debitis explicabo nemo incidunt animi expedita quaerat id excepturi neque? Deserunt ipsam temporibus porro, quo consequuntur explicabo quae ex dolorum.</p>
 						<p>Lorem ipsum, dolor sit amet,con sectetur adipisicing elit. Laborum culpa, eligendi ea quam impedit exercitationem expedita voluptates soluta beatae doloremque nihil at, atque nostrum ullam tempore! Dolorem voluptate ipsam reprehenderit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit quo debitis explicabo nemo incidunt animi expedita quaerat id excepturi neque? Deserunt ipsam temporibus porro, quo consequuntur explicabo quae ex dolorum.</p>
 					</div>
+					<img src="img/blocks.png">
 				</div>
 			</div>
 		</div>
@@ -41,7 +41,7 @@
 		<div class="sectionSubjects">
 			<div class="wrapper">
 				<ul>
-					<li>eee</li>
+					<li>eeeee</li>
 				</ul>
 			</div>
 		</div>
