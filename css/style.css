@@ -16,11 +16,11 @@ html{
 }
 
 .sectionHeader img{
-	max-width: 200px;
+	max-width: 150px;
 }
 
 .sectionHeader{
-	background-color: #1eb300;
+	background-color: #03357c;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -28,6 +28,13 @@ html{
 .sectionHeader a{
 	text-decoration: none;
 	margin-left: 10px;
+	color: #2ADD5D;
+	font-weight: 600;
+}
+
+.sectionHeader a:hover{
+	border-bottom: 2px solid #2ADD5D;
+	margin-bottom: 5px;
 }
 
 .wrapper{
@@ -63,9 +70,10 @@ html{
 /* Versnellen */
 
 .sectionAccelerated{
-	background-color: #9BD83E;
+	background-color: #03357c;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	color: #2ADD5D;
 }
 
 /* Vakken */
@@ -76,22 +84,24 @@ html{
 }
 
 .subject{
-	margin-top: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 /* Huiswerk */
 
 .sectionHomework{
-	background-color: #3d0099;
+	background-color: #03357c;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	color: #2ADD5D;
 }
 
 /* Rooster */
 
 .sectionSchedule{
-	margin-top: 25px;
-	margin-bottom: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .sectionSchedule img{
@@ -107,15 +117,16 @@ html{
 /* Teachers */
 
 .sectionTeachers{
-	background-color: #cc00c5;
+	background-color: #03357c;
 	padding-top: 25px;
 	padding-bottom: 25px;
-
+	color: #2ADD5D;
 }
 
 .sectionTeachers2{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 25px;
 }
 
 .teacher img{
@@ -128,20 +139,17 @@ html{
 	flex-direction: column;
 }
 
-
 /* Footer */
 
 .sectionFooter .wrapper{
 	color: white;
-	display: flex;
-	justify-content: space-evenly;
+	text-align: center;
 }
 
 .sectionFooter{
 	background-color: black;
 	padding-top: 25px;
 	padding-bottom: 25px;
-
 }
 
 /* Mediaquery */
@@ -152,5 +160,8 @@ html{
   }
   .wrapper{
   	width: auto;
+  }
+  .sectionTeachers2{
+	grid-template-columns: 1fr;
   }
 }

@@ -9,7 +9,7 @@
 <body>
 	<header>
 		<div class="sectionHeader">
-			<img src="img/curio-02-wit-logo-rgb.png">
+			<img src="img/curio-16-midden-groen-logo-rgb.png">
 			<div class="sectionHeader2">
 				<a href="#blocks">Blokken</a>
 				<a href="#accelerated">Versnellen</a>
@@ -75,6 +75,10 @@
 					<b>Burgerschap</b>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsum ducimus asperiores excepturi quia at temporibus perferendis illum inventore saepe tempore exercitationem nobis dolores dolorem, dolor iusto, reiciendis iste, sapiente.
 				</div>
+				<div class="subject">
+					<b>Codelab</b>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsum ducimus asperiores excepturi quia at temporibus perferendis illum inventore saepe tempore exercitationem nobis dolores dolorem, dolor iusto, reiciendis iste, sapiente.
+				</div>
 			</div>
 		</div>
 		<div id="homework" class="sectionHomework">
@@ -90,7 +94,7 @@
 		</div>
 		<div id="schedule" class="sectionSchedule">
 			<div class="wrapper">
-				<h2>Hoe ziet ons rooster eruit</h2>
+				<h2>Hoe ziet ons rooster eruit?</h2>
 				<div class="sectionScheduleFlex">
 					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor molestias in adipisci assumenda suscipit, nihil voluptatem asperiores quos placeat, accusantium. Suscipit accusantium quas, maiores minus, eius placeat autem nesciunt omnis?</p>
 					<img src="img/rooster.png">
