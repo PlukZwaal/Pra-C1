@@ -162,6 +162,20 @@
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
+					<div class="teacher">
+						<img src="img/elton.png">
+						<div class="teacherFlex">
+							<b>Elton Boekhoudt</b>
+							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
+						</div>
+					</div>
+					<div class="teacher">
+						<img src="img/michiel.png">
+						<div class="teacherFlex">
+							<b>Michiel Boerman</b>
+							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
