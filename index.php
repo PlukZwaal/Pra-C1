@@ -107,44 +107,58 @@
 				<h2>Docenten</h2>
 				<div class="sectionTeachers2">
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/steven.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Steven Van Roosendaal</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/wicher.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Wicher Hulzebosch </b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/corne.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Corne Wagtmans</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/fedje.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Fedde van Gills</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/tim.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Tim Lutt</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/imgdocent.jpg">
+						<img src="img/ine.png">
 						<div class="teacherFlex">
-							<b>Lorem</b>
+							<b>Ine Vermeer</b>
+							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
+						</div>
+					</div>
+					<div class="teacher">
+						<img src="img/wiro.png">
+						<div class="teacherFlex">
+							<b>Wiro Verdiesen</b>
+							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
+						</div>
+					</div>
+					<div class="teacher">
+						<img src="img/mustafa.png">
+						<div class="teacherFlex">
+							<b>Mustafa Kasar</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>

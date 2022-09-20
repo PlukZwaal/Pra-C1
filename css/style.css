@@ -189,4 +189,7 @@ html{
 		border-bottom: 2px solid transparent;
 		margin-bottom: 5px;
 	}
+	.teacher{
+		border-bottom: 1px solid #2ADD5D;
+	}
 }
