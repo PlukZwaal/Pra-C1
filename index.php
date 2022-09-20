@@ -17,6 +17,7 @@
 				<a href="#homework">Huiswerk</a>
 				<a href="#schedule">Rooster</a>
 				<a href="#teachers">Docenten</a>
+				<a href="#holidays">Vakanties</a>
 			</div>
 		</div>
 	</header>
@@ -106,47 +107,54 @@
 				<h2>Docenten</h2>
 				<div class="sectionTeachers2">
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
 					<div class="teacher">
-						<img src="img/curio-15-licht-groen-logo-rgb.png">
+						<img src="img/imgdocent.jpg">
 						<div class="teacherFlex">
 							<b>Lorem</b>
 							<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Doloribus, voluptatibus quo facilis unde temporibus.</p>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
+		<div id="holidays" class="sectionHolidays">
+			<div class="wrapper">
+				<h2>Vakanties</h2>
+				<p>Lorem, ipsum dolor sit amet consectetur adipisicing, elit. Iusto placeat magnam voluptatibus iure magni, praesentium eos voluptate, maiores veritatis minima sapiente amet dolor blanditiis delectus ullam hic laboriosam expedita accusamus.</p>
 				</div>
 			</div>
 		</div>
