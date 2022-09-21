@@ -182,7 +182,7 @@
 		<div id="holidays" class="sectionHolidays">
 			<div class="wrapper">
 				<h2>Vakanties</h2>
-				<p>Lorem, ipsum dolor sit amet consectetur adipisicing, elit. Iusto placeat magnam voluptatibus iure magni, praesentium eos voluptate, maiores veritatis minima sapiente amet dolor blanditiis delectus ullam hic laboriosam expedita accusamus.</p>
+				<p>Op onze opleiding hebben wij net zoals op andere opleiding vakanties en vrije dagen. Als eerste hebben wij de Herfst vakantie. Deze vakantie duurt 1 week lang en vind plaats midden/eind Oktober. Na de herfstvakantie is er een kerst vakantie. Deze vakantie duurt 2 weken lang en begint op 25 december tot en met 9 januari. Ongeveer bij het einde van februari begint de Voorjaarsvakantie. Deze vakantie staat ook wel bekend met de naam Carnavalsvakantie omdat in deze vakantie carnaval word gevierd. Deze vakantie duurt 1 week lang. Na de voorjaarsvakantie heb je de mei vakantie. Deze vakantie vind plaats eind april/begin mei. Deze duurt 2 weken lang. Als aller laats heb je nog de zomervakantie. Deze begint midden Juni en duurt minimaal 6 weken lang maar dit kan oplopen tot 7/8 weken. Buiten de vakanties heb je ook nog een paar vrije dagen zoals Curiodag, Goede vrijdag, 2e paasdag, Hemelvaart en 2e pinksterdag. In het einde van elk blok heb je ook een bufferweek en die duurd 2 weken. In deze bufferweek maak je proefwerken en moet je naar school komen als je je huiswerk nog niet afhebt, maar het grootste gedeelte van deze bufferweek mag je thuis blijven. Dit noemen de leerlingen ook wel een extra vakantie.</p>
 				</div>
 			</div>
 		</div>
