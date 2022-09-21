@@ -19,6 +19,18 @@
 				<a href="#teachers">Docenten</a>
 				<a href="#holidays">Vakanties</a>
 			</div>
+			<div class="dropdown">
+  				<button class="dropbtn">=</button>
+  				<div class="dropdown-content">
+					<a href="#blocks">Blokken</a>
+					<a href="#accelerated">Versnellen</a>
+					<a href="#subjects">Vakken</a>
+					<a href="#homework">Huiswerk</a>
+					<a href="#schedule">Rooster</a>
+					<a href="#teachers">Docenten</a>
+					<a href="#holidays">Vakanties</a>
+  				</div>
+			</div>
 		</div>
 	</header>
 	<body>

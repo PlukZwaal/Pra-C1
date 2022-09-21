@@ -16,18 +16,15 @@ html{
 
 .sectionHeader{
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	align-items: center;
+	background-color: #03357c;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .sectionHeader img{
 	max-width: 150px;
-}
-
-.sectionHeader{
-	background-color: #03357c;
-	padding-top: 20px;
-	padding-bottom: 20px;
 }
 
 .sectionHeader a{
@@ -37,9 +34,56 @@ html{
 	font-weight: 550;
 }
 
-.sectionHeader a:hover{
+.sectionHeader2 a:hover{
 	border-bottom: 2px solid #2ADD5D;
 	margin-bottom: 5px;
+}
+
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 30px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #03357c;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #2ADD5D;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+	border-bottom: 1px solid #2ADD5D;
+	border-top: 1px solid #2ADD5D;
+}
+
+.dropdown-content a{
+	border-bottom: 1px solid transparent;
+	border-top: 1px solid transparent;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #3e8e41;
 }
 
 /* Blocks */
@@ -160,7 +204,7 @@ html{
 	background-color: #03357c;
 }
 
-/* Mediaquery */
+/* Mediaquerys */
 
 @media only screen and (max-width: 1000px) {
   .sectionBlocksFlex {
@@ -182,14 +226,15 @@ html{
 		max-width: 450px;
 	}
 	.sectionHeader2{
-		display: flex;
-		flex-direction: column;
-	}
-	.sectionHeader a{
-		border-bottom: 2px solid transparent;
-		margin-bottom: 5px;
+		display: none;
 	}
 	.teacher{
 		border-bottom: 1px solid #2ADD5D;
+	}
+}
+
+@media only screen and (min-width: 1001px) {
+	.dropdown{
+		display: none;
 	}
 }
