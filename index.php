@@ -202,6 +202,7 @@
 	<footer>
 		<div class="sectionFooter">
 			<div class="wrapper">
+				<img src="img/curio-16-midden-groen-logo-rgb.png">
 				<p>Gemaakt door Pluk Zwaal</p>
 			</div>
 		</div>
