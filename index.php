@@ -39,8 +39,8 @@
 				<div class="sectionBlocksFlex">
 					<div class="sectionBlocksFlex2">
 						<h2>Hoe werken de blokken?</h2>
-						<p>Lorem ipsum, dolor sit amet,con sectetur adipisicing elit. Laborum culpa, eligendi ea quam impedit exercitationem expedita voluptates soluta beatae doloremque nihil at, atque nostrum ullam tempore! Dolorem voluptate ipsam reprehenderit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit quo debitis explicabo nemo incidunt animi expedita quaerat id excepturi neque? Deserunt ipsam temporibus porro, quo consequuntur explicabo quae ex dolorum.</p>
-						<p>Lorem ipsum, dolor sit amet,con sectetur adipisicing elit. Laborum culpa, eligendi ea quam impedit exercitationem expedita voluptates soluta beatae doloremque nihil at, atque nostrum ullam tempore! Dolorem voluptate ipsam reprehenderit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit quo debitis explicabo nemo incidunt animi expedita quaerat id excepturi neque? Deserunt ipsam temporibus porro, quo consequuntur explicabo quae ex dolorum.</p>
+						<p>De blokken werken heel erg simpel. Elk blok is een half jaar school. Dus je begint na de zomervakantie in block A en een paar weken na kerst begin je aan blok B.</p>
+						<p>Dit heeft als grote voordeel dat als je in een blok slecht presteert dat je niet 1 heel jaar overnieuw moet doen, maar een half jaar.</p>
 					</div>
 					<img src="img/blocks.png" alt="">
 				</div>
@@ -49,12 +49,16 @@
 		<div id="accelerated" class="sectionAccelerated">
 			<div class="wrapper">
 				<h2>Hoe kan je versnellen?</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<p>Bij Deze opleiding kan je als je goed je best doet versnellen dat houdt in dat je in plaats van de normale vier jaar, je er maar drie doet dit is natuurlijk erg fijn maar om dit te kunnen doen moet je wel aan wat criteria voldoet.</p>
+				<ul>
+					<br>
+					<li>Voor het praktijkwerk al je praktijkopdrachten voldoende hebben.</li>
+					<li>Je moet aan minstens 90% van de leeruitkomsten voldaan hebben.</li>
+					<li>Je hebt voor je eindopdracht voldaan.</li>
+					<li>Je moet een goede beroepshouding hebben.</li>
+					<br>
+				</ul>
+				<p>Als het je lukt om aan deze criteria te voldoen dan krijg je na het eerste blok als overgangsadvies groen en begin je het volgende blok in de versnelde versie van de opleiding. Als je begint met de versnelde versie kom je in een nieuwe klas samen met de ander die ook zijn versneld. Terwijl je versneld zal je een nieuw vak krijgen dat heet delta hier krijg je de stof waar de normale klas wat langer over zou doen, naast dit vak zal je geen andere vakken krijgen. Al in al is het dus zeker mogelijk om hier te versnellen als je in het eerste blok goed je best doet om te laten zien aan de docenten dan je het aankan.</p>
 			</div>
 		</div>
 		<div id="subjects" class="sectionSubjects">
